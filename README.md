@@ -1,6 +1,10 @@
 mockup
 ======
 
+========
+WEEK 1
+========
+
 User Stories and HTML Mockup Pages
 
 Problem Statement: New employees or small business owners often dont know . This can even be true for business school students, who might know the theorical aspects of business but lack the tactical or practical steps in executing a certain job function (e.g.: digital mktg for real estate)
@@ -28,3 +32,8 @@ Under Sub-Topics: sub-topics like: Digital Marketing, or "Industry specific" or 
 For each of these Sub-Topics the menu of BOoks, Articles, Q&A, Sub-Topics repeats as needed
 
 Using this website the business owner can quickly drill down to content that will specifically help him execute a digital marketing plan. He can read as much theory or as much "tactical things to do" type articles before executing his plan
+
+========
+WEEK 2
+========
+URL FOR DOMAIN MODELING: https://docs.google.com/spreadsheet/ccc?key=0ApoNO0Td0kMpdEZxWTFNUV8xTWRYdHFoNTg5bnpzRmc&usp=sharing 
